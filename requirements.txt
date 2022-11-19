@@ -2,3 +2,4 @@ scikit_learn
 pandas
 numpy
 dvc
+-e .
